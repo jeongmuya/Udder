@@ -20,6 +20,7 @@ struct ContentView: View {
                 Text("Fresh Milk, On Demand")
                     .font(.system(size: 28, weight: .thin))
                     .foregroundColor(.gray)
+                Text("Hello")
                 Image("Milk")
                     .resizable()
             }
